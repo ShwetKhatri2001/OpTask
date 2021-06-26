@@ -1,0 +1,11 @@
+.addBtn {
+  background-color: #005252;
+  color: white;
+}
+
+.addBtn:hover {
+  background-color: white;
+  /* #3feee6 */
+  color: #005252;
+  border: 1px solid #005252;
+}

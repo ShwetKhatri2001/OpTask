@@ -1,0 +1,47 @@
+.pageBody {
+  height: 100%;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.linkText {
+  text-decoration: none;
+  color: rgb(116, 112, 112);
+  margin-bottom: 10px;
+}
+
+.gradient {
+  background: rgb(0,82,82);
+  /* background: linear-gradient(90deg, rgba(0,82,82,1) 0%, rgba(0,144,144,1) 74%); */
+}
+
+.signUpBtn {
+  border-color: white;
+  color: white;
+}
+
+.signUpBtn:hover {
+  background-color: white; 
+  /* #3feee6 */
+  color: #005252;
+  border-color: #005252;
+}
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: white;
+}
+
+.feature {
+  color: white;
+}
+
+.feature ul {
+  padding-left: 2rem;
+  list-style-type: upper-roman;
+}
+
+.feature ul li:before {
+  padding-left: 2rem;
+}

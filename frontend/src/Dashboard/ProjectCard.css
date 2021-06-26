@@ -1,0 +1,17 @@
+.projectCard {
+  width: 60rem;
+}
+
+.projectLink {
+  color: inherit;
+  text-decoration: none;
+}
+
+.projectLink:hover {
+  color: #005252;
+}
+
+.project-card-title {
+  font-size: 1.75rem;
+  font-weight: 500;
+}

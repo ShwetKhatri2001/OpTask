@@ -1,0 +1,50 @@
+.btnUpdate {
+    background-color: #005252;
+    color: white;
+}
+
+.btnUpdate:hover {
+    background-color: white;
+    /* #3feee6 */
+    color: #005252;
+    border: 1px solid #005252;
+}
+
+.btnClose {
+    background-color: #520000;
+    color: white;
+}
+
+.btnClose:hover {
+    color: #520000;
+    background-color: white;
+    border: 1px solid #520000;
+}
+
+.btn-outline-primary {
+    background-color: white;
+    /* #3feee6 */
+    color: #005252;
+    border-color: #005252;
+}
+
+.btn-outline-primary:hover {
+    background-color: #005252;
+    color: white;
+    border-color: white;
+}
+
+.btn-check:checked+.btn-outline-primary, .btn-outline-primary:focus{
+    background-color: #005252;
+    color: white;
+    border-color: #005252;
+}
+
+.btn-check:checked + .btn-outline-primary:focus, .btn-check:active + .btn-outline-primary:focus, 
+.btn-outline-primary:active:focus, .btn-outline-primary.active:focus, .btn-outline-primary.dropdown-toggle.show:focus {
+    box-shadow: 0 0 0 0.25rem #006161;
+}
+
+.btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
+    box-shadow: 0 0 0 0.25rem #006161;
+}
