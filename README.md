@@ -4,9 +4,27 @@
 
 By [Shwet Khatri](https://github.com/ShwetKhatri2001) 
 
-My project is a project management site where users can create new projects, add tasks, and update their progress as the work. 
+- OpTask is a project management site where users can create new projects, add tasks, and update their progress as the work. 
+
+# Problem
+- When we work in team on a project , such as  open source project, production project, or project in events like Hackathons, We always face one issue that is an dividing tasks among people for a project. 
+
+ >  #### So if you face the same problem we are here to help you! 🤩
+
+
+# Solution
+
+- OpTask web-app helps the user to store projects he want along with tasks for each project.
+- So project can be devided in tasks and can be assigned to individuals.
+- These projects and tasks can be added, updated and deleted as people work on them.
+
+# WebApp Details
+
+## Live Site  
 - You can find live site [here](http://optasks.herokuapp.com/) for demo.
+## Video Demonstration  
 - You can find demonstration video [here](https://vimeo.com/568019065) to find how it works.
+## PPT  
 - You can find PPT [here](https://www.slideshare.net/ShwetKhatri1/optask) to know more about the project.
 
 ## Screenshots
