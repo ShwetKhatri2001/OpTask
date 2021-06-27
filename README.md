@@ -4,19 +4,25 @@
 
 By [Shwet Khatri](https://github.com/ShwetKhatri2001) 
 
-My project is a project management site where users can create new projects, add tasks, and update their progress as the work. You can find live site [here](http://optasks.herokuapp.com/). 
+My project is a project management site where users can create new projects, add tasks, and update their progress as the work. 
+- You can find live site [here](http://optasks.herokuapp.com/) for demo.
+- You can find demonstration video [here](https://vimeo.com/568019065) to find how it works.
+- You can find PPT [here](https://www.slideshare.net/ShwetKhatri1/optask) to know more about the project.
 
 ## Screenshots
 
 ![Landing Page](/frontend/src/Images/landing.png)
 
-![Dashboard](/frontend/src/Images/dashboard.png)
-
-![Profile Page](/frontend/src/Images/profile.png)
-
 ![Sign Up Page](/frontend/src/Images/register.png)
 
 ![Login Page](/frontend/src/Images/login.png)
+
+![Dashboard](/frontend/src/Images/dashboard.png)
+
+![Project Page](/frontend/src/Images/profile.png)
+
+![Profile Page](/frontend/src/Images/project.png)
+
 
 ## How to Start
 
@@ -42,7 +48,7 @@ npm start
 
 ## Folders
 
-- auth: contaiins Passport.js set up/config files
+- auth: contains Passport.js set up/config files
 - db: contains a js file that connects the functionality established in the routes to respective collections in MongoDB
 - frontend: contains all frontend material
   - public: houses index.js
